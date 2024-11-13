@@ -63,7 +63,9 @@ This project demonstrates the effectiveness of NLP and machine learning in impro
 
 ## Articles published / References
 1.Smith, J., & Kumar, R. "Enhancing Job Recommendations Using NLP and Machine Learning". International Journal of Computer Science and Information Technology, 2023.
+
 2.Patel, M., & Singh, T. "JobFit: Job Recommendation using Machine Learning and Recommender". Proceedings of the ACM International Conference on Information and Knowledge Management, 2022.
+
 3.Johnson, L., & Davis, K. "A Comparative Study of Skill Development and Job Portals". Journal of Career Development and Workforce Research, 2024.
 
 
