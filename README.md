@@ -1,59 +1,69 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## NLP-Powered Resume Parser and Job Recommendation Engine
+This project focuses on automating the process of parsing resumes and matching candidate profiles with relevant job openings, optimizing recruitment by using natural language processing (NLP) and machine learning.
 
 ## About
 <!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+The NLP-Powered Resume Parser and Job Recommendation Engine is designed to streamline recruitment by automatically analyzing resumes and recommending jobs that match candidate skills and experience. Traditional resume screening is time-consuming and often lacks precision in matching specific skills to job roles. This project uses advanced NLP techniques to extract and interpret key resume data, generating personalized job recommendations based on the parsed information. The system combines a user-friendly interface with a robust backend, aiming to improve candidate-job matching efficiency.
 
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- NLP Resume Parsing: Utilizes spaCy for accurate information extraction, capturing key data like skills, experience, and education.
+- Job Recommendation Engine: Matches candidate profiles to relevant job roles by using machine learning algorithms.
+- Interactive Interface: Enables candidates to upload resumes and instantly view suitable job matches.
+- Scalability: Capable of processing large datasets of resumes and job descriptions efficiently.
+- Real-Time Updates: Offers dynamic job recommendations as new openings are added to the system.
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+* Operating System: Compatible with Windows 10/11 or Ubuntu 18.04+ (64-bit recommended).
+* Programming Language: Python 3.8 or higher for NLP processing and backend development.
+* Development Framework: Flask for backend services, enabling rapid deployment of the recommendation engine.
+* NLP Library: spaCy for efficient resume parsing and information extraction.
+* Machine Learning Libraries: scikit-learn for implementing recommendation algorithms.
+* Database: MongoDB or SQL for storing parsed resume data and job listings.
+* Version Control: Git for collaborative development and project management.
+* IDE: VS Code for development, debugging, and integration with Git.
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![diagram-export-11-12-2024-9_16_27-PM](https://github.com/user-attachments/assets/fb4cb221-7b24-413f-8619-8e403a65676a)
+
 
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 -  Upload Resume(Home Page)
+![Screenshot 2024-11-12 133408](https://github.com/user-attachments/assets/c836f3cf-353c-4d78-bd71-011e59513487)
+![Screenshot 2024-11-12 133646](https://github.com/user-attachments/assets/0da9e001-40ab-48ae-84a6-8232032d3dd2)
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+
+#### Output2 - Job Recommendations
+![Screenshot 2024-11-12 134042](https://github.com/user-attachments/assets/55b56c54-e1c7-4585-a835-577f06523691)
+
+#### Output3 - Filtered Job Listings by Location
+![Screenshot 2024-11-12 134939](https://github.com/user-attachments/assets/a1e25996-5b39-4274-a768-42e11170b17c)
+![Screenshot 2024-11-12 135206](https://github.com/user-attachments/assets/e603b57d-39de-48e6-92c0-3ab207280d0d)
+
+
+
+
 
 Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+
 
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+The NLP-Powered Resume Parser and Job Recommendation Engine significantly reduces the time required for resume screening and increases accuracy in matching candidates with suitable job roles. By automating the resume parsing process, recruiters can focus on higher-value tasks, while candidates receive better-matched job recommendations. 
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+This project demonstrates the effectiveness of NLP and machine learning in improving the recruitment process, making it a valuable tool in HR and talent acquisition.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
-
-
+1.Smith, J., & Kumar, R. "Enhancing Job Recommendations Using NLP and Machine Learning". International Journal of Computer Science and Information Technology, 2023.
+2.Patel, M., & Singh, T. "JobFit: Job Recommendation using Machine Learning and Recommender". Proceedings of the ACM International Conference on Information and Knowledge Management, 2022.
+3.Johnson, L., & Davis, K. "A Comparative Study of Skill Development and Job Portals". Journal of Career Development and Workforce Research, 2024.
 
 
